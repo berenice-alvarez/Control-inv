@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Library>
+
+  <books 
+      BookName="Computer Architecture" 
+      Category="Computers" 
+      Price="125.60">
+  </books>
+  <books 
+      BookName="Advanced Compsite Materials" 
+      Category="Science" 
+      Price="172.56">
+  </books>
+  <books 
+      BookName="Asp.Net 4 Blue Book" 
+      Category="Programming" 
+      Price="56.00">
+  </books>
+  <books 
+      BookName="Stategies Unplugged" 
+      Category="Science" 
+      Price="99.99">
+  </books>
+  <books 
+      BookName="Teaching Science" 
+      Category="Science" 
+      Price="164.10">
+  </books>
+  <books 
+      BookName="Challenging Times" 
+      Category="Business" 
+      Price="150.70">
+  </books>
+  <books 
+      BookName="Circuit Bending" 
+      Category="Science" 
+      Price="112.00">
+  </books>
+  <books 
+      BookName="Popular Science" 
+      Category="Science" 
+      Price="210.40">
+  </books>
+  <books 
+      BookName="ADOBE Premiere" 
+      Category="Computers" 
+      Price="62.20">
+  </books>
+
+</Library>
