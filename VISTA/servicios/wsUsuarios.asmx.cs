@@ -52,20 +52,15 @@ namespace VISTA.servicios
         [WebMethod(EnableSession =true)]
         public bool ingresar(String usu, String pass) {            
             UsuarioDAO nd = new UsuarioDAO();
-            bool resultado = false;
-            string nombre = usu;
-            resultado = nd.Ingresar(usu,pass);
-            if (resultado == true)
+            if (nd.Ingresar(usu, pass) == true)
             {
-                try
-                {
-                    Session.Add("usuario", nombre);                                        
-                }
-                catch (Exception e) {
-                    return false;
-                }                
-            }            
-            return resultado;
+                Session.Add("usuario", usu);
+                return true;
+            }
+            else {
+                return false;
+            }
+            
         }
     }
 }

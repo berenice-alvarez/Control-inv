@@ -1,0 +1,6 @@
+C:\Users\Berenice\Pictures\PCI-master\Control de Inventario\DATOS\bin\Debug\DATOS.dll
+C:\Users\Berenice\Pictures\PCI-master\Control de Inventario\DATOS\bin\Debug\DATOS.pdb
+C:\Users\Berenice\Pictures\PCI-master\Control de Inventario\DATOS\bin\Debug\MySql.Data.dll
+C:\Users\Berenice\Pictures\PCI-master\Control de Inventario\DATOS\obj\Debug\DATOS.csprojResolveAssemblyReference.cache
+C:\Users\Berenice\Pictures\PCI-master\Control de Inventario\DATOS\obj\Debug\DATOS.dll
+C:\Users\Berenice\Pictures\PCI-master\Control de Inventario\DATOS\obj\Debug\DATOS.pdb

@@ -30,7 +30,7 @@ namespace VISTA.Models
     public class ApplicationDbContext : IdentityDbContext<ApplicationUser>
     {
         public ApplicationDbContext()
-            : base("DefaultConnection", throwIfV1Schema: false)
+            : base("ODBC.DBASE", throwIfV1Schema: false)
         {
         }
 

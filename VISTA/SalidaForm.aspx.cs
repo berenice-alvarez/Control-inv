@@ -13,5 +13,9 @@ namespace VISTA
         {
 
         }
+        public void btnAceptar_click(object sender, EventArgs e)
+        {
+            Response.Redirect("ListaProducto.aspx");
+        }
     }
 }

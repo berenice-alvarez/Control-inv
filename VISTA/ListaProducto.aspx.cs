@@ -11,10 +11,10 @@ namespace VISTA
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            if ((string)Session["usuario"] == null)
+            if ((string)Session["usuario"] == "")
             {
                 Response.Redirect("Inicio.aspx");
-            }
+            }           
         }
     }
 }

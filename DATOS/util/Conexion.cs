@@ -16,7 +16,7 @@ namespace DATOS.util
         public static MySqlConnection conexion = null;
         public bool Conectar()
         {
-            String parametrosConexion = "Server=localhost;Uid=root;Pwd=root;Database=Almacen;Port=3306;";
+            String parametrosConexion = "Server = MYSQL5014.site4now.net; Database = db_a4829d_almacen; Uid = a4829d_almacen; Pwd = pagweb2019";
             conexion = new MySqlConnection(parametrosConexion);
             //Intentamos conectarnos
             try
@@ -42,15 +42,15 @@ namespace DATOS.util
             {
             //Revisar: https://www.connectionstrings.com/mysql/
             
-            String servidor = "localhost";
-            String puerto = "3306";
-            String usuario = "root";
-            String password = "root";
-            String database = "Almacen";
-
-            //Cadena de conexion
+            String servidor = "MYSQL5014.site4now.net";
+            //String puerto = "3306";
+            String usuario = "a4829d_almacen";
+            String password = "pagweb2019";
+            String database = "db_a4829d_almacen";
             
-                return String.Format("server={0};port={1};user id={2}; password={3}; database={4}", servidor, puerto, usuario, password, database); 
+            //Cadena de conexion
+
+            return String.Format("server={0};user id={2}; password={3}; database={4}", servidor, usuario, password, database); 
             }
 
             /// <summary> 

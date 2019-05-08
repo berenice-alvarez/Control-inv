@@ -12,23 +12,7 @@ namespace VISTA
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            Session.Add("Usuario", "");
-        }
-        public void btnIniciarSesion_click(object sender, EventArgs e)
-        {
-            String usuario = txtUser.Value.ToString();
-            String pass = txtPassword.Value.ToString();
-
-            UsuarioDAO nd = new UsuarioDAO();
-            if (nd.Ingresar(usuario, pass) == true)
-            {
-
-                Response.Redirect("ListaProducto.aspx");
-            }
-            else
-            {
-                Label1.Text = "Algo salio mal en usuario y/o contraseña";
-            }
-        }
+            Session["usuario"] = "";
+        }       
     }
 }

@@ -41,6 +41,24 @@ namespace DATOS.daos
 
             return lista;
         }
+        public List<Producto> getAllInventario()
+        {
+            List<Producto> lista = new List<Producto>();
+            Conexion con = new Conexion();
+
+            DataSet datos = con.LLenaComboGrid("SELECT codigo,nombre,cantidad FROM producto");
+            DataTable dt = datos.Tables[0];
+            Producto p;
+            foreach (DataRow r in dt.Rows)
+            {
+                p = new Producto();
+                p.Codigo = (int)r.ItemArray[0];
+                p.Nombre = (string)r.ItemArray[1];
+                p.Cantidad = (int)r.ItemArray[2];                
+                lista.Add(p);
+            }
+            return lista;
+        }
 
         public List<Producto> getById(int Id)
         {
@@ -178,34 +196,7 @@ namespace DATOS.daos
             sqlCom.Parameters.AddWithValue("@categoria", p.Categoria);            
             con.EjecutaSQLComando(sqlCom);
         }
-
-
-        //public List<Producto> getAll()
-        //{
-        //    List<Producto> lista = new List<Producto>();
-        //    Conexion con = new Conexion();
-
-        //    DataSet datos = con.LLenaComboGrid("SELECT * FROM producto");
-        //    DataTable dt = datos.Tables[0];
-        //    Producto p;
-        //    foreach (DataRow r in dt.Rows)
-        //    {
-
-        //        p = new Producto();
-        //        p.Codigo = (int)r.ItemArray[0];
-        //        p.Nombre = (string)r.ItemArray[1];
-        //        p.Cantidad = (int)r.ItemArray[2];
-        //        p.PrecioCosto = (Decimal)r.ItemArray[3];
-        //        p.PrecioPublico = (Decimal)r.ItemArray[4];
-        //        p.PrecioMayoreo = (Decimal)r.ItemArray[5];
-        //        p.Categoria = (int)r.ItemArray[6];
-        //        p.CodigoUsuario = (int)r.ItemArray[7];
-        //        lista.Add(p);
-        //    }
-
-        //    return lista;
-        //}
-
+       
         public DataSet getAllDataset()
         {
             Conexion con = new Conexion();
