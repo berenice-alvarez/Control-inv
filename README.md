@@ -1,1 +1,2 @@
-# Control-inv
+# PCI
+Proyecto Control de Inventario

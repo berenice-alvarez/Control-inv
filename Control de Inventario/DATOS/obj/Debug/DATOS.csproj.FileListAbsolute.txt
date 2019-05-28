@@ -1,0 +1,92 @@
+C:\Users\NikanCode\Downloads\base-web-2018-master\base-web-2018-master\DATOS\bin\Debug\DATOS.dll
+C:\Users\NikanCode\Downloads\base-web-2018-master\base-web-2018-master\DATOS\bin\Debug\DATOS.pdb
+C:\Users\NikanCode\Downloads\base-web-2018-master\base-web-2018-master\DATOS\bin\Debug\MySql.Data.dll
+C:\Users\NikanCode\Downloads\base-web-2018-master\base-web-2018-master\DATOS\obj\Debug\DATOS.csprojAssemblyReference.cache
+C:\Users\NikanCode\Downloads\base-web-2018-master\base-web-2018-master\DATOS\obj\Debug\DATOS.csproj.CoreCompileInputs.cache
+C:\Users\NikanCode\Downloads\base-web-2018-master\base-web-2018-master\DATOS\obj\Debug\DATOS.csproj.CopyComplete
+C:\Users\NikanCode\Downloads\base-web-2018-master\base-web-2018-master\DATOS\obj\Debug\DATOS.dll
+C:\Users\NikanCode\Downloads\base-web-2018-master\base-web-2018-master\DATOS\obj\Debug\DATOS.pdb
+C:\Users\NikanCode\Downloads\base-web-2018-master\base-web-2018-master\DATOS\bin\Debug\Google.Protobuf.dll
+C:\Users\NikanCode\Downloads\base-web-2018-master\base-web-2018-master\DATOS\bin\Debug\Google.Protobuf.xml
+C:\Users\NikanCode\Downloads\base-web-2018-master\base-web-2018-master\DATOS\bin\Debug\MySql.Data.xml
+C:\Users\josem\Desktop\ITSUR ENE-JUNIO 2019\WEB II\base-web-2018-master-b\base-web-2018-master\DATOS\bin\Debug\DATOS.dll
+C:\Users\josem\Desktop\ITSUR ENE-JUNIO 2019\WEB II\base-web-2018-master-b\base-web-2018-master\DATOS\bin\Debug\DATOS.pdb
+C:\Users\josem\Desktop\ITSUR ENE-JUNIO 2019\WEB II\base-web-2018-master-b\base-web-2018-master\DATOS\bin\Debug\Google.Protobuf.dll
+C:\Users\josem\Desktop\ITSUR ENE-JUNIO 2019\WEB II\base-web-2018-master-b\base-web-2018-master\DATOS\bin\Debug\MySql.Data.dll
+C:\Users\josem\Desktop\ITSUR ENE-JUNIO 2019\WEB II\base-web-2018-master-b\base-web-2018-master\DATOS\bin\Debug\Google.Protobuf.xml
+C:\Users\josem\Desktop\ITSUR ENE-JUNIO 2019\WEB II\base-web-2018-master-b\base-web-2018-master\DATOS\bin\Debug\MySql.Data.xml
+C:\Users\josem\Desktop\ITSUR ENE-JUNIO 2019\WEB II\base-web-2018-master-b\base-web-2018-master\DATOS\obj\Debug\DATOS.csprojAssemblyReference.cache
+C:\Users\josem\Desktop\ITSUR ENE-JUNIO 2019\WEB II\base-web-2018-master-b\base-web-2018-master\DATOS\obj\Debug\DATOS.csproj.CoreCompileInputs.cache
+C:\Users\josem\Desktop\ITSUR ENE-JUNIO 2019\WEB II\base-web-2018-master-b\base-web-2018-master\DATOS\obj\Debug\DATOS.csproj.CopyComplete
+C:\Users\josem\Desktop\ITSUR ENE-JUNIO 2019\WEB II\base-web-2018-master-b\base-web-2018-master\DATOS\obj\Debug\DATOS.dll
+C:\Users\josem\Desktop\ITSUR ENE-JUNIO 2019\WEB II\base-web-2018-master-b\base-web-2018-master\DATOS\obj\Debug\DATOS.pdb
+C:\Users\josem\Desktop\ITSUR ENE-JUNIO 2019\TALLER DE INVESTIGACION II\base-web-2018-master-b\base-web-2018-master\DATOS\bin\Debug\DATOS.dll
+C:\Users\josem\Desktop\ITSUR ENE-JUNIO 2019\TALLER DE INVESTIGACION II\base-web-2018-master-b\base-web-2018-master\DATOS\bin\Debug\DATOS.pdb
+C:\Users\josem\Desktop\ITSUR ENE-JUNIO 2019\TALLER DE INVESTIGACION II\base-web-2018-master-b\base-web-2018-master\DATOS\bin\Debug\Google.Protobuf.dll
+C:\Users\josem\Desktop\ITSUR ENE-JUNIO 2019\TALLER DE INVESTIGACION II\base-web-2018-master-b\base-web-2018-master\DATOS\bin\Debug\MySql.Data.dll
+C:\Users\josem\Desktop\ITSUR ENE-JUNIO 2019\TALLER DE INVESTIGACION II\base-web-2018-master-b\base-web-2018-master\DATOS\bin\Debug\Google.Protobuf.xml
+C:\Users\josem\Desktop\ITSUR ENE-JUNIO 2019\TALLER DE INVESTIGACION II\base-web-2018-master-b\base-web-2018-master\DATOS\bin\Debug\MySql.Data.xml
+C:\Users\josem\Desktop\ITSUR ENE-JUNIO 2019\TALLER DE INVESTIGACION II\base-web-2018-master-b\base-web-2018-master\DATOS\obj\Debug\DATOS.csproj.CoreCompileInputs.cache
+C:\Users\josem\Desktop\ITSUR ENE-JUNIO 2019\TALLER DE INVESTIGACION II\base-web-2018-master-b\base-web-2018-master\DATOS\obj\Debug\DATOS.csproj.CopyComplete
+C:\Users\josem\Desktop\ITSUR ENE-JUNIO 2019\TALLER DE INVESTIGACION II\base-web-2018-master-b\base-web-2018-master\DATOS\obj\Debug\DATOS.dll
+C:\Users\josem\Desktop\ITSUR ENE-JUNIO 2019\TALLER DE INVESTIGACION II\base-web-2018-master-b\base-web-2018-master\DATOS\obj\Debug\DATOS.pdb
+C:\Users\josem\Desktop\ITSUR ENE-JUNIO 2019\TALLER DE INVESTIGACION II\base-web-2018-master-b\base-web-2018-master\DATOS\obj\Debug\DATOS.csprojAssemblyReference.cache
+C:\Users\josem\Desktop\ITSUR ENE-JUNIO 2019\TALLER DE INVESTIGACION II\Control de Inventario\Control de Inventario\DATOS\bin\Debug\DATOS.dll
+C:\Users\josem\Desktop\ITSUR ENE-JUNIO 2019\TALLER DE INVESTIGACION II\Control de Inventario\Control de Inventario\DATOS\bin\Debug\DATOS.pdb
+C:\Users\josem\Desktop\ITSUR ENE-JUNIO 2019\TALLER DE INVESTIGACION II\Control de Inventario\Control de Inventario\DATOS\bin\Debug\Google.Protobuf.dll
+C:\Users\josem\Desktop\ITSUR ENE-JUNIO 2019\TALLER DE INVESTIGACION II\Control de Inventario\Control de Inventario\DATOS\bin\Debug\MySql.Data.dll
+C:\Users\josem\Desktop\ITSUR ENE-JUNIO 2019\TALLER DE INVESTIGACION II\Control de Inventario\Control de Inventario\DATOS\bin\Debug\Google.Protobuf.xml
+C:\Users\josem\Desktop\ITSUR ENE-JUNIO 2019\TALLER DE INVESTIGACION II\Control de Inventario\Control de Inventario\DATOS\bin\Debug\MySql.Data.xml
+C:\Users\josem\Desktop\ITSUR ENE-JUNIO 2019\TALLER DE INVESTIGACION II\Control de Inventario\Control de Inventario\DATOS\obj\Debug\DATOS.csprojAssemblyReference.cache
+C:\Users\josem\Desktop\ITSUR ENE-JUNIO 2019\TALLER DE INVESTIGACION II\Control de Inventario\Control de Inventario\DATOS\obj\Debug\DATOS.csproj.CoreCompileInputs.cache
+C:\Users\josem\Desktop\ITSUR ENE-JUNIO 2019\TALLER DE INVESTIGACION II\Control de Inventario\Control de Inventario\DATOS\obj\Debug\DATOS.csproj.CopyComplete
+C:\Users\josem\Desktop\ITSUR ENE-JUNIO 2019\TALLER DE INVESTIGACION II\Control de Inventario\Control de Inventario\DATOS\obj\Debug\DATOS.dll
+C:\Users\josem\Desktop\ITSUR ENE-JUNIO 2019\TALLER DE INVESTIGACION II\Control de Inventario\Control de Inventario\DATOS\obj\Debug\DATOS.pdb
+C:\Users\josem\Desktop\ITSUR ENE-JUNIO 2019\TALLER DE INVESTIGACION II\Control de Inventario\PCI\Control de Inventario\DATOS\bin\Debug\DATOS.dll
+C:\Users\josem\Desktop\ITSUR ENE-JUNIO 2019\TALLER DE INVESTIGACION II\Control de Inventario\PCI\Control de Inventario\DATOS\bin\Debug\DATOS.pdb
+C:\Users\josem\Desktop\ITSUR ENE-JUNIO 2019\TALLER DE INVESTIGACION II\Control de Inventario\PCI\Control de Inventario\DATOS\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\josem\Desktop\ITSUR ENE-JUNIO 2019\TALLER DE INVESTIGACION II\Control de Inventario\PCI\Control de Inventario\DATOS\bin\Debug\Google.Protobuf.dll
+C:\Users\josem\Desktop\ITSUR ENE-JUNIO 2019\TALLER DE INVESTIGACION II\Control de Inventario\PCI\Control de Inventario\DATOS\bin\Debug\MySql.Data.dll
+C:\Users\josem\Desktop\ITSUR ENE-JUNIO 2019\TALLER DE INVESTIGACION II\Control de Inventario\PCI\Control de Inventario\DATOS\bin\Debug\Google.Protobuf.xml
+C:\Users\josem\Desktop\ITSUR ENE-JUNIO 2019\TALLER DE INVESTIGACION II\Control de Inventario\PCI\Control de Inventario\DATOS\bin\Debug\MySql.Data.xml
+C:\Users\josem\Desktop\ITSUR ENE-JUNIO 2019\TALLER DE INVESTIGACION II\Control de Inventario\PCI\Control de Inventario\DATOS\obj\Debug\DATOS.csproj.CoreCompileInputs.cache
+C:\Users\josem\Desktop\ITSUR ENE-JUNIO 2019\TALLER DE INVESTIGACION II\Control de Inventario\PCI\Control de Inventario\DATOS\obj\Debug\DATOS.csproj.CopyComplete
+C:\Users\josem\Desktop\ITSUR ENE-JUNIO 2019\TALLER DE INVESTIGACION II\Control de Inventario\PCI\Control de Inventario\DATOS\obj\Debug\DATOS.dll
+C:\Users\josem\Desktop\ITSUR ENE-JUNIO 2019\TALLER DE INVESTIGACION II\Control de Inventario\PCI\Control de Inventario\DATOS\obj\Debug\DATOS.pdb
+C:\Users\josem\Desktop\ITSUR ENE-JUNIO 2019\TALLER DE INVESTIGACION II\Control de Inventario\PCI\Control de Inventario\DATOS\obj\Debug\DATOS.csprojAssemblyReference.cache
+C:\Users\endJG\Desktop\PCI\Control de Inventario\DATOS\bin\Debug\DATOS.dll
+C:\Users\endJG\Desktop\PCI\Control de Inventario\DATOS\bin\Debug\DATOS.pdb
+C:\Users\endJG\Desktop\PCI\Control de Inventario\DATOS\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\endJG\Desktop\PCI\Control de Inventario\DATOS\bin\Debug\Google.Protobuf.dll
+C:\Users\endJG\Desktop\PCI\Control de Inventario\DATOS\bin\Debug\MySql.Data.dll
+C:\Users\endJG\Desktop\PCI\Control de Inventario\DATOS\bin\Debug\Google.Protobuf.xml
+C:\Users\endJG\Desktop\PCI\Control de Inventario\DATOS\bin\Debug\MySql.Data.xml
+C:\Users\endJG\Desktop\PCI\Control de Inventario\DATOS\obj\Debug\DATOS.csprojAssemblyReference.cache
+C:\Users\endJG\Desktop\PCI\Control de Inventario\DATOS\obj\Debug\DATOS.csproj.CoreCompileInputs.cache
+C:\Users\endJG\Desktop\PCI\Control de Inventario\DATOS\obj\Debug\DATOS.csproj.CopyComplete
+C:\Users\endJG\Desktop\PCI\Control de Inventario\DATOS\obj\Debug\DATOS.dll
+C:\Users\endJG\Desktop\PCI\Control de Inventario\DATOS\obj\Debug\DATOS.pdb
+C:\Users\jesus\Desktop\PCI\Control de Inventario\DATOS\bin\Debug\DATOS.dll
+C:\Users\jesus\Desktop\PCI\Control de Inventario\DATOS\bin\Debug\DATOS.pdb
+C:\Users\jesus\Desktop\PCI\Control de Inventario\DATOS\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\jesus\Desktop\PCI\Control de Inventario\DATOS\bin\Debug\Google.Protobuf.dll
+C:\Users\jesus\Desktop\PCI\Control de Inventario\DATOS\bin\Debug\MySql.Data.dll
+C:\Users\jesus\Desktop\PCI\Control de Inventario\DATOS\bin\Debug\Google.Protobuf.xml
+C:\Users\jesus\Desktop\PCI\Control de Inventario\DATOS\bin\Debug\MySql.Data.xml
+C:\Users\jesus\Desktop\PCI\Control de Inventario\DATOS\obj\Debug\DATOS.csprojAssemblyReference.cache
+C:\Users\jesus\Desktop\PCI\Control de Inventario\DATOS\obj\Debug\DATOS.csproj.CoreCompileInputs.cache
+C:\Users\jesus\Desktop\PCI\Control de Inventario\DATOS\obj\Debug\DATOS.csproj.CopyComplete
+C:\Users\jesus\Desktop\PCI\Control de Inventario\DATOS\obj\Debug\DATOS.dll
+C:\Users\jesus\Desktop\PCI\Control de Inventario\DATOS\obj\Debug\DATOS.pdb
+C:\Users\jesus\Desktop\ProyectoInventarioWEBII\Control-inv\Control de Inventario\DATOS\bin\Debug\DATOS.dll
+C:\Users\jesus\Desktop\ProyectoInventarioWEBII\Control-inv\Control de Inventario\DATOS\bin\Debug\DATOS.pdb
+C:\Users\jesus\Desktop\ProyectoInventarioWEBII\Control-inv\Control de Inventario\DATOS\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\jesus\Desktop\ProyectoInventarioWEBII\Control-inv\Control de Inventario\DATOS\bin\Debug\Google.Protobuf.dll
+C:\Users\jesus\Desktop\ProyectoInventarioWEBII\Control-inv\Control de Inventario\DATOS\bin\Debug\MySql.Data.dll
+C:\Users\jesus\Desktop\ProyectoInventarioWEBII\Control-inv\Control de Inventario\DATOS\bin\Debug\Google.Protobuf.xml
+C:\Users\jesus\Desktop\ProyectoInventarioWEBII\Control-inv\Control de Inventario\DATOS\bin\Debug\MySql.Data.xml
+C:\Users\jesus\Desktop\ProyectoInventarioWEBII\Control-inv\Control de Inventario\DATOS\obj\Debug\DATOS.csprojAssemblyReference.cache
+C:\Users\jesus\Desktop\ProyectoInventarioWEBII\Control-inv\Control de Inventario\DATOS\obj\Debug\DATOS.csproj.CoreCompileInputs.cache
+C:\Users\jesus\Desktop\ProyectoInventarioWEBII\Control-inv\Control de Inventario\DATOS\obj\Debug\DATOS.csproj.CopyComplete
+C:\Users\jesus\Desktop\ProyectoInventarioWEBII\Control-inv\Control de Inventario\DATOS\obj\Debug\DATOS.dll
+C:\Users\jesus\Desktop\ProyectoInventarioWEBII\Control-inv\Control de Inventario\DATOS\obj\Debug\DATOS.pdb
