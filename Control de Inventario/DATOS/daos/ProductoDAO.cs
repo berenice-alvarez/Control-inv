@@ -178,26 +178,34 @@ namespace DATOS.daos
             con.EjecutaSQLComando(sqlCom);
         }
 
-        public void update(Producto p)
+        public Boolean update(Producto p)
         {
-            Conexion con = new Conexion();
-            String SQL = "UPDATE producto" +
-                "SET nombre = @nombre,cantidad=@cantidad,precioCosto=@precioCosto,precioPublico=@precioPublico," +
-                "precioMayoreo=@precioMayoreo,categoria=@categoria" +
-                "WHERE codigo = @id limit 1;";
+            try
+            {
 
-            MySqlCommand sqlCom = new MySqlCommand();
-            sqlCom.CommandText = SQL;
-            sqlCom.Parameters.AddWithValue("@id", p.Codigo);
-            sqlCom.Parameters.AddWithValue("@nombre", p.Nombre);
-            sqlCom.Parameters.AddWithValue("@cantidad", p.Cantidad);
-            sqlCom.Parameters.AddWithValue("@precioCosto", p.PrecioCosto);
-            sqlCom.Parameters.AddWithValue("@precioPublico", p.PrecioPublico);
-            sqlCom.Parameters.AddWithValue("@precioMayoreo", p.PrecioMayoreo);
-            sqlCom.Parameters.AddWithValue("@categoria", p.Categoria);            
-            con.EjecutaSQLComando(sqlCom);
+                Conexion con = new Conexion();
+                String SQL = "UPDATE producto " +
+                    "SET nombre = @nombre,cantidad=@cantidad,precioCosto=@precioCosto,precioPublico=@precioPublico, " +
+                    "precioMayoreo=@precioMayoreo,categoria=@categoria " +
+                    "WHERE codigo = @id limit 1;";
+
+                MySqlCommand sqlCom = new MySqlCommand();
+                sqlCom.CommandText = SQL;
+                sqlCom.Parameters.AddWithValue("@id", p.Codigo);
+                sqlCom.Parameters.AddWithValue("@nombre", p.Nombre);
+                sqlCom.Parameters.AddWithValue("@cantidad", p.Cantidad);
+                sqlCom.Parameters.AddWithValue("@precioCosto", p.PrecioCosto);
+                sqlCom.Parameters.AddWithValue("@precioPublico", p.PrecioPublico);
+                sqlCom.Parameters.AddWithValue("@precioMayoreo", p.PrecioMayoreo);
+                sqlCom.Parameters.AddWithValue("@categoria", p.Categoria);
+                con.EjecutaSQLComando(sqlCom);
+                return true;
+            }
+            catch (Exception e)
+            {
+                return false;
+            }
         }
-
         public bool updateProducto(int id, int cantidad){
             try
             {

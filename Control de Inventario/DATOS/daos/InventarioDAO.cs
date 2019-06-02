@@ -27,8 +27,14 @@ namespace DATOS.daos
                 p.Nombre = (string)r.ItemArray[1];
                 p.Cantidad = (int)r.ItemArray[2];
                 p.Inco = (int)r.ItemArray[3];
-                p.NombreEmp = (string)r.ItemArray[4];
-                p.Fecha = (string)r.ItemArray[5];
+                if(r.ItemArray[4] != System.DBNull.Value)
+                {
+                    p.NombreEmp = (string)r.ItemArray[4];
+                }
+                if (r.ItemArray[4] != System.DBNull.Value)
+                {
+                    p.Fecha = (string)r.ItemArray[5];
+                }
                 lista.Add(p);
             }
 

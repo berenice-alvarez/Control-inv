@@ -5,6 +5,7 @@ using System.Data.SqlClient;
 using System.Linq;
 using System.Web;
 using System.Web.Script.Serialization;
+using System.Web.Script.Services;
 using System.Web.Services;
 using DATOS.daos;
 using DATOS.modelo;
@@ -68,6 +69,71 @@ namespace VISTA.servicios
 
             //return strJSON;
 
+        }
+
+        [WebMethod]
+        public Boolean update(Producto pr)
+        {
+            ProductoDAO dao = new ProductoDAO();
+            Boolean resultado = dao.update(pr);
+            return resultado;
+        }
+        
+        [WebMethod]
+        public Boolean update2(int clave,string nombre_pr, int cant_pro, decimal precioCos, decimal precioPub, decimal precioMay, int cat)
+        {
+            Producto p = new Producto();
+            ProductoDAO dao = new ProductoDAO();
+            p.Codigo = clave;
+            p.Nombre = nombre_pr;
+            p.Cantidad = cant_pro;
+            p.PrecioCosto = precioCos;
+            p.PrecioPublico = precioPub;
+            p.PrecioMayoreo = precioMay;
+            p.Categoria = cat;
+            if (dao.update(p))
+            {
+                return true;
+            }
+            else {
+                return false;
+            }
+            //return update(new Producto() {Codigo=clave, Nombre = nombre_pr, Cantidad = cant_pro, PrecioCosto = precioCos, PrecioPublico = precioPub, PrecioMayoreo = precioMay, Categoria = cat });
+        }
+        
+        [WebMethod]
+        public Boolean update3(int clave2, string nombre_pr, int cant_pro, decimal precioCos, decimal precioPub, decimal precioMay, int cat)
+        {
+            Producto p = new Producto();
+            ProductoDAO dao = new ProductoDAO();
+            p.Codigo = clave2;
+            p.Nombre = nombre_pr;
+            p.Cantidad = cant_pro;
+            p.PrecioCosto = precioCos;
+            p.PrecioPublico = precioPub;
+            p.PrecioMayoreo = precioMay;
+            p.Categoria = cat;
+            if (dao.update(p))
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+            //return update(new Producto() {Codigo=clave, Nombre = nombre_pr, Cantidad = cant_pro, PrecioCosto = precioCos, PrecioPublico = precioPub, PrecioMayoreo = precioMay, Categoria = cat });
+        }
+
+        [WebMethod]
+        public string edit(int id)
+        {
+            ProductoDAO dao = new ProductoDAO();
+            Producto prod = new Producto();
+            prod = dao.Buscar2(id);
+            String strJSON;      
+            strJSON = JsonConvert.SerializeObject(prod,
+                          new JsonSerializerSettings { NullValueHandling = NullValueHandling.Ignore });
+            return strJSON;        
         }
     }
 }

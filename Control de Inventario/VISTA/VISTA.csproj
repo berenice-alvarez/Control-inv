@@ -1795,7 +1795,6 @@
     <Content Include="Content\open-iconic-master\svg\zoom-in.svg" />
     <Content Include="Content\open-iconic-master\svg\zoom-out.svg" />
     <Content Include="Content\Site.css" />
-    <Content Include="EditarUsuario.js" />
     <Content Include="EntradaForm.aspx" />
     <Content Include="EntradaForm.js" />
     <Content Include="fonts\fontawesome-webfont.svg" />
@@ -1818,6 +1817,8 @@
     <Content Include="ListaUsuarios.aspx" />
     <Content Include="ListaUsuarios.js" />
     <Content Include="Principal.Master" />
+    <Content Include="ProductEdit.aspx" />
+    <Content Include="ProductEdit.js" />
     <Content Include="ProductForm.js" />
     <Content Include="ProductosForm.aspx" />
     <Content Include="ProductosForm.js" />
@@ -3216,6 +3217,7 @@
     <Content Include="fonts\fontawesome-webfont.woff" />
     <Content Include="fonts\fontawesome-webfont.ttf" />
     <Content Include="fonts\fontawesome-webfont.eot" />
+    <None Include="Properties\PublishProfiles\control.pubxml" />
     <None Include="Scripts\jquery-3.3.1.intellisense.js" />
     <Content Include="Scripts\esm\popper-utils.js" />
     <Content Include="Scripts\esm\popper-utils.min.js" />
@@ -3269,7 +3271,9 @@
     <Content Include="UsuarioForm.aspx" />
     <Content Include="UsuarioForm.js" />
     <Content Include="ViewSwitcher.ascx" />
-    <Content Include="Web.config" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
     <Content Include="Bundle.config" />
     <Content Include="packages.config" />
     <None Include="Project_Readme.html" />
@@ -3472,6 +3476,13 @@
     </Compile>
     <Compile Include="Principal.Master.designer.cs">
       <DependentUpon>Principal.Master</DependentUpon>
+    </Compile>
+    <Compile Include="ProductEdit.aspx.cs">
+      <DependentUpon>ProductEdit.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ProductEdit.aspx.designer.cs">
+      <DependentUpon>ProductEdit.aspx</DependentUpon>
     </Compile>
     <Compile Include="ProductosForm.aspx.cs">
       <DependentUpon>ProductosForm.aspx</DependentUpon>
